@@ -23,3 +23,7 @@ Create the MYSQL DB
 3) Create tables
 4) Insert values
 
+last step
+In web browser type your EC2 public IP address. 
+Example: 11.11.11.11 (public IP address of EC2) 
+
